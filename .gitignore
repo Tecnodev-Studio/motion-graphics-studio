@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+mgs_chunks/
+silent.mp4
+out.mp4
+final_audio.wav
+sheet.png
+check_sheet.png
+render.log
+*.egg-info/
+.venv/
